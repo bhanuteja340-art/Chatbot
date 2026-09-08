@@ -1,0 +1,8 @@
+{
+  "pdf_hash": "5716eba3dac7a4f222e3e95a1e6dfa76650810bc76c7f03035ea9504c3aabe04",
+  "chunk_size": 512,
+  "chunk_overlap": 51,
+  "chunking_version": "section-aware-v1",
+  "embedding_model": "gemini-embedding-001",
+  "chunk_count": 490
+}

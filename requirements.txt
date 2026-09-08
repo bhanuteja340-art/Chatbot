@@ -1,0 +1,5 @@
+streamlit==1.63.0
+google-genai==2.22.0
+chromadb==1.5.9
+python-dotenv==1.2.3
+pypdf==6.18.0
